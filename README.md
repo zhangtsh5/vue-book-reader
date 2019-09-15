@@ -25,5 +25,5 @@ npm run dev
 ```
 
 ## 在线效果预览
-https://github.com/zhangtsh5/vue-book-reader/dist/#/
+https://zhangtsh5.github.io/vue-book-reader/dist/#/
 
