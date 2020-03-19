@@ -9,10 +9,10 @@
 - 进度调整
 - 电子书目录
 ## 涉及技术点
-1、web前端基础知识：html,css,javascript基础
-2、前端框架 vue.js 使用：vue基础语法，vue-cli项目搭建，vue-router, vue组件化开发, 父子组件通信，dom操纵, 过渡动画实现
-3、scss: 基本语法，@import, @mixin
-4、了解epub解析原理
+1、web前端基础知识：html,css,javascript基础 <br/>
+2、前端框架 vue.js 使用：vue基础语法，vue-cli项目搭建，vue-router, vue组件化开发, 父子组件通信，dom操纵, 过渡动画实现<br/>
+3、scss: 基本语法，@import, @mixin<br/>
+4、了解epub解析原理<br/>
 
 ## 本地运行
 
